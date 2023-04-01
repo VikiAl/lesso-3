@@ -68,4 +68,3 @@ Content Cell | Content Cell
 
 >Моя душа теряет голову,
 
-## Заключение
